@@ -1,5 +1,66 @@
 [
     {
+        "id": 8,
+        "title": "Apple iPhone XR (64GB) - Black", 
+        "desc": "Apple iPhone XR (64GB) - Black",
+         "price": 1080.88,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/31QEfiXEbvL._SX342_SY445_QL70_FMwebp_.jpg",
+         "ratings": 3
+     },
+     {
+        "id": 9,
+        "title": "OnePlus 9 Pro Pine Green | 5G Unlocked Android Smartphone | 120Hz Fluid Display | Hasselblad Quad Camera | 65W Ultra Fast Charge", 
+        "desc": "Pro Angular 9: Build Powerful and Dynamic Web Apps 4th ed. Edition",
+         "price": 900.99,
+         "image": "https://m.media-amazon.com/images/I/81w9PfjekiL._AC_SS450_.jpg",
+         "ratings": 3
+     },
+    {
+        "id": 1,
+    "title": "Sleepwell Starlite Discover 4-inch Firm Single Size Foam Mattress (72*36*4 Inches)",
+    "desc": "Fruit of the Loom Men's Eversoft Fleece Sweatshirts & Hoodies",
+    "price": 99.00,
+     "image": "https://m.media-amazon.com/images/I/71R0HPjoQlL._AC_UL480_QL65_.jpg",
+     "ratings": 4},
+     {   
+        "id": 2,
+        "title": "Da URBAN® Miller Medium Back Office/Revolving Chair (Black)",
+         "desc": "GORE WEAR Mens R7 Gore-tex Shakedry Trail Hooded Jacket",
+         "price": 125.00,
+         "image": "https://m.media-amazon.com/images/I/61+Jo0zd+JL._AC_UL480_QL65_.jpg",
+         "ratings": 5
+     },
+    {
+        "id": 1,
+    "title": "Fruit of the Loom Men's Eversoft Fleece Sweatshirts & Hoodies",
+    "desc": "Fruit of the Loom Men's Eversoft Fleece Sweatshirts & Hoodies",
+    "price": 100.00,
+     "image": "https://m.media-amazon.com/images/I/81I6ngZyflL._AC_UL480_FMwebp_QL65_.jpg",
+     "ratings": 4},
+     {   
+        "id": 2,
+        "title": "GORE WEAR Mens R7 Gore-tex Shakedry Trail Hooded Jacket",
+         "desc": "GORE WEAR Mens R7 Gore-tex Shakedry Trail Hooded Jacket",
+         "price": 2500.00,
+         "image": "https://m.media-amazon.com/images/I/81T1lxYiC8L._AC_UL480_FMwebp_QL65_.jpg",
+         "ratings": 5
+     },
+    {
+        "id": 1,
+    "title": "2021 Newest Lenovo 23.8-inch FHD Non-Touch All-in-One Desktop Computer, Intel Pentium Gold G6400T Processor 3.4 GHz, 16GB RAM, 128GB PCIe SSD + 1TB HDD",
+    "desc": "2021 Newest Lenovo 23.8-inch FHD Non-Touch All-in-One Desktop Computer, Intel Pentium Gold G6400T Processor 3.4 GHz, 16GB RAM, 128GB PCIe SSD + 1TB HDD",
+    "price": 1000.00,
+     "image": "https://m.media-amazon.com/images/I/61MpF83bYwL._AC_UY327_FMwebp_QL65_.jpg",
+     "ratings": 4.5},
+     {   
+        "id": 2,
+        "title": "SkyTech Shadow 3.0 Gaming Computer PC Desktop - Ryzen 7 3700X 8-Core 3.6GHz, RTX 3060 12GB, 1TB SSD, 16GB DDR4 3000, RGB Fans, AC WiFi, 600W Gold PSU",
+         "desc": "SkyTech Shadow 3.0 Gaming Computer PC Desktop - Ryzen 7 3700X 8-Core 3.6GHz, RTX 3060 12GB, 1TB SSD, 16GB DDR4 3000, RGB Fans, AC WiFi, 600W Gold PSU",
+         "price": 2500.00,
+         "image": "https://m.media-amazon.com/images/I/81NVDYTkRnL._AC_UY327_FMwebp_QL65_.jpg",
+         "ratings": 5
+     },
+    {
         "id": 1,
     "title": "xbox one x 1TB",
     "desc": "Microsoft Xbox One X 1Tb Console With Wireless Controller: Xbox One X Enhanced, Hdr, Native 4K, Ultra Hd",
@@ -36,5 +97,93 @@
          "price": 54.36,
          "image": "https://images-na.ssl-images-amazon.com/images/I/61fpw9inWTL._SL1296_.jpg",
          "ratings": 2
+     },
+     {   
+        "id": 6, 
+         "title": "ZEBRONICS Zeb-U725 600VA UPS for Desktop/PC/Computers (not for Routers) with Automatic Voltage Regulation", 
+         "desc": "ZEBRONICS Zeb-U725 600VA UPS for Desktop/PC/Computers (not for Routers) with Automatic Voltage Regulation",
+         "price": 30.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41BxdWHACDL._SX300_SY300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 7, 
+         "title": "Zebronics Zeb-Crystal Clear Web Camera with 3P Lens,Built-in Microphone,Auto White Balance,Night Vision and Manual Switch for LED", 
+         "desc": "Zebronics Zeb-Crystal Clear Web Camera with 3P Lens,Built-in Microphone,Auto White Balance,Night Vision and Manual Switch for LED",
+         "price": 10.00,
+         "image": "https://m.media-amazon.com/images/I/71fKEMwMWYL._SX522_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 8, 
+         "title": "Sades Razer Mano'War 7.1 Surround Sound Gaming Headset Compatible with Pc, Mac, Steam Link and Works with Playstation 4", 
+         "desc": "Sades Razer Mano'War 7.1 Surround Sound Gaming Headset Compatible with Pc, Mac, Steam Link and Works with Playstation 4",
+         "price": 30.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/51azxawxR5L._SX300_SY300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 9, 
+         "title": "MSI Optix MAG241C 23.6 inch Full HD Curved Gaming Monitor, 144hz Refresh Rate, 1ms Response time, Anti Glare Panel and Adjustable Stand", 
+         "desc": "MSI Optix MAG241C 23.6 inch Full HD Curved Gaming Monitor, 144hz Refresh Rate, 1ms Response time, Anti Glare Panel and Adjustable Stand",
+         "price": 250.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41xHPJgy8UL._SY300_SX300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 10, 
+         "title": "Electrobot Gaming Tower PC - Intel i5 9400F, Nvidia RTX 2060 6GB, 16GB RAM, 1TB HDD, 240GB SSD with 4 RGB ", 
+         "desc": "Electrobot Gaming Tower PC - Intel i5 9400F, Nvidia RTX 2060 6GB, 16GB RAM, 1TB HDD, 240GB SSD with 4 RGB",
+         "price": 1500.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41DonqtMERL._SY300_SX300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 11, 
+         "title": "Lowepro Whistler BP 350 AW Camera Case", 
+         "desc": "Lowepro Whistler BP 350 AW Camera Case(with No Cost EMI/Additional Exchange Offers)",
+         "price": 270.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41ojBb2XquL._SX300_SY300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 12, 
+         "title": "Vivo Y33s (Middday Dream, 8GB RAM, 128GB Stoarge)", 
+         "desc": "Vivo Y33s (Middday Dream, 8GB RAM, 128GB Stoarge) with No Cost EMI/Additional Exchange Offers",
+         "price": 500.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/411N6z8z7hL._AC_SX184_.jpg",
+         "ratings": 5
+     },
+     {   
+        "id": 13, 
+         "title": "Panasonic Lumix G DC-GH5 20MP 4K Mirrorless Camera", 
+         "desc": "Panasonic Lumix G DC-GH5 20MP 4K Mirrorless Camera (Black) Body Only",
+         "price":1400.00,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41TFW1wfLFL._SY300_SX300_QL70_FMwebp_.jpg",
+         "ratings": 5
+     },
+     {
+        "id": 8,
+        "title": "AGARO 33398 Rapid 1000-Watt, 10-Litre Wet & Dry Vacuum Cleaner", 
+        "desc": "Signature by Levi Strauss & Co. Gold Label Boys Pull On JeanLee ",
+         "price": 160.88,
+         "image": "https://m.media-amazon.com/images/I/415f3fULh8L._AC_SR160,160_.jpg",
+         "ratings": 3
+     },
+     {
+        "id": 9,
+        "title": "Glen 3 Burner LPG Glass Gas Stove with Double Drip Tray, High Flame Forged Brass Burner, Auto Ignition, Extra Wide", 
+        "desc": "Glen 3 Burner LPG Glass Gas Stove with Double Drip Tray, High Flame Forged Brass Burner, Auto Ignition, Extra Wide, Black (1033 GT XL FB DD AI)",
+         "price": 39.9,
+         "image": "https://m.media-amazon.com/images/I/41yY1N88l6L._AC_SR160,160_.jpg",
+         "ratings": 3
+     },
+     {
+        "id": 10,
+        "title": "Pigeon by Stovekraft Aster 4 High Powered Brass Burner Gas Stove, Cooktop with Glass Top and Stainless Steel body", 
+        "desc": "Pigeon by Stovekraft Aster 4 High Powered Brass Burner Gas Stove, Cooktop with Glass Top and Stainless Steel body, Manual Ignition (Black)",
+         "price": 49.99,
+         "image": "https://images-eu.ssl-images-amazon.com/images/I/41uv7NpZksL._SX300_SY300_QL70_FMwebp_.jpg",
+         "ratings": 3
      }
 ]

@@ -1,0 +1,15 @@
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/OHL_HMT/jupiterphase4/Header-PC_phrase-1-copy_013.gif" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21/Bank/Phase-4/update/Bank_PC__1500x90_3.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21P1/pay_stripe_desk.png" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21/T2/Bank-Stripe/FST/FST_1500x100_English.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/OHL_HMT/Jupiter_21/Phase4/Banner/image168.png" class="t2">
+<div class="products">
+    <div class="product" *ngFor="let item of items">
+        <mat-card>
+            <p>{{item.title}}</p>
+            <p>$ <strong>{{item.price}}</strong></p>
+            <img src={{item.image}}>
+            <button (click)="addToCart(item)">Add to cart</button>
+        </mat-card>
+    </div>
+</div>

@@ -1,0 +1,15 @@
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/CEPC/Jupiter/Headers/P4/1500x300_desk_store_header_Desktops.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21/Bank/Phase-4/update/Bank_PC__1500x90_3.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Laptops/DIY_Inggress_Mobile_1500.jpg" class="t2">
+<div class="products">
+    <div class="product" *ngFor="let item of items">
+        <mat-card>
+            <p>{{item.title}}</p>
+            <p>$ <strong>{{item.price}}</strong></p>
+            <img src={{item.image}}>
+            <button (click)="addToCart(item)">Add to cart</button>
+        </mat-card>
+    </div>
+</div>
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Laptops/Jupiter/Category/Co-op/All/Amazon-Category-teaser-Windows11_1500x300px.jpg" class="t1">
+

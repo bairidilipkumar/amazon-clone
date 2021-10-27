@@ -1,0 +1,29 @@
+<body>
+    <div class="login">
+        <div class="login_container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/2560px-Amazon_logo.svg.png" class="login_logo">
+            <div class="login_form">
+        <h1 style="margin-left: 100px;">Sign-Up</h1>
+        <form [formGroup]="signupForm" (ngSubmit)="submit()">
+            <h5>FirstName</h5>
+            <input type="text" formControlName="firstname" >
+            <h5>LastName</h5>
+            <input type="text" formControlName="lastname">
+            <h5>Email</h5>
+            <input type="email" formControlName="email" >
+            <h5>password</h5>
+            <input type="password" formControlName="password" >
+            <h5>retype-password</h5>
+            <input type="password" >
+            <button class="login_create_account">create amazon account</button>
+            <p class="login_terms">By continuing, you agree to Amazon's conditions of use and privacy notifications</p>
+    
+        </form>
+    
+            </div>
+    
+        </div>
+    
+    </div>
+    
+</body>

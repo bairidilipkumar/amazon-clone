@@ -1,3 +1,9 @@
+.t1{
+    width: 100%;
+}
+.t2{
+    margin-left: 100px;
+}
 .products{
     display: flex;
     flex-wrap: wrap;
@@ -25,10 +31,3 @@
     height: 30px;
 
 }
-.t1{
-    margin-left: 200px;
-    height: 500px;
-}
-
-
-

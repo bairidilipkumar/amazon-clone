@@ -16,7 +16,7 @@
 
 .login_logo{
     width: 100px;
-    margin-top: 130px;
+    margin-top: 60px;
     margin-bottom: 20px;
     object-fit: contain;
 }
@@ -60,5 +60,7 @@ form >input{
     height: 30px;
     color: black;
     border-color:grey
-
+}
+body{
+    background-color: #d1584d;
 }

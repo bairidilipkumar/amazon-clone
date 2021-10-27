@@ -1,0 +1,98 @@
+[{
+    "id": 1,
+"title": "Sleepwell Starlite Discover 4-inch Firm Single Size Foam Mattress (72*36*4 Inches)",
+"desc": "Fruit of the Loom Men's Eversoft Fleece Sweatshirts & Hoodies",
+"price": 99.00,
+ "image": "https://m.media-amazon.com/images/I/71R0HPjoQlL._AC_UL480_QL65_.jpg",
+ "ratings": 4},
+ {   
+    "id": 2,
+    "title": "Da URBAN® Miller Medium Back Office/Revolving Chair (Black)",
+     "desc": "GORE WEAR Mens R7 Gore-tex Shakedry Trail Hooded Jacket",
+     "price": 125.00,
+     "image": "https://m.media-amazon.com/images/I/61+Jo0zd+JL._AC_UL480_QL65_.jpg",
+     "ratings": 5
+ },
+ {
+    "id": 3,
+    "title":"Spacewood Winner Engineered Wood Study Desk (Walnut finish,Walnut Rigato)",
+    "desc": "COOFANDY Mens Casual Slim Fit Blazer 3 Button Suit Sport Coat Lightweight Jacket Coat",
+     "price": 180.88,
+     "image":"https://m.media-amazon.com/images/I/71XCXtU2X6L._AC_UL480_QL65_.jpg",
+     "ratings": 3.5
+ },
+ {
+    "id": 4,
+    "title":"Vudy Mango Wood Walnut Finish Handmade Carving Classic Side Table for Living Room (Brown)",
+    "desc": "Mens Casual Sport Coats Lightweight Slim Fit Suit Blazer Jacket Two Button Lapel Blazer",
+     "price": 300.88,
+     "image":"https://m.media-amazon.com/images/I/71nba6EhEzS._AC_UL480_QL65_.jpg",
+     "ratings": 4
+ },
+ {
+    "id": 5,
+    "title": "Amazon Brand - Solimo XXL Bean Bag Filled With Beans (Brown and Tan)",
+    "desc":"COOFANDY Men's Casual Double-Breasted Jacket Slim Fit Blazer",
+     "price": 48.88,
+     "image": "https://m.media-amazon.com/images/I/61Jc19XUcfL._AC_UL480_QL65_.jpg",
+     "ratings": 4.5
+ },
+ {
+    "id": 6,
+    "title": "Cello Prima Induction Base Non-Stick Aluminium Pan Cookware Set, 3-Pieces, Cherry Red", 
+    "desc": "Amazon Essentials Men's Skinny-fit Stretch Jean",
+     "price": 79.99,
+     "image": "https://m.media-amazon.com/images/I/7169jlr-0mL._AC_UL480_QL65_.jpg",
+     "ratings": 4
+ },
+ {
+    "id": 7,
+    "title": "Prestige Omega Deluxe Granite 3 Pcs with 1 Glass LidPrestige Omega Deluxe Granite 3 Pcs with 1 Glass LidPrestige Omega Deluxe Granite 3 Pcs ", 
+    "desc": "Wrangler Boys’ Original Students ProRodeo Jean",
+     "price": 29.99,
+     "image": "https://images-eu.ssl-images-amazon.com/images/I/41+WeaJPWlL._AC_SX184_.jpg",
+     "ratings": 3
+ },
+ {
+    "id": 8,
+    "title": "AGARO 33398 Rapid 1000-Watt, 10-Litre Wet & Dry Vacuum Cleaner", 
+    "desc": "Signature by Levi Strauss & Co. Gold Label Boys Pull On JeanLee ",
+     "price": 160.88,
+     "image": "https://m.media-amazon.com/images/I/415f3fULh8L._AC_SR160,160_.jpg",
+     "ratings": 3
+ },
+ {
+    "id": 9,
+    "title": "Glen 3 Burner LPG Glass Gas Stove with Double Drip Tray, High Flame Forged Brass Burner, Auto Ignition, Extra Wide", 
+    "desc": "Glen 3 Burner LPG Glass Gas Stove with Double Drip Tray, High Flame Forged Brass Burner, Auto Ignition, Extra Wide, Black (1033 GT XL FB DD AI)",
+     "price": 39.9,
+     "image": "https://m.media-amazon.com/images/I/41yY1N88l6L._AC_SR160,160_.jpg",
+     "ratings": 3
+ },
+ {
+    "id": 10,
+    "title": "Pigeon by Stovekraft Aster 4 High Powered Brass Burner Gas Stove, Cooktop with Glass Top and Stainless Steel body", 
+    "desc": "Pigeon by Stovekraft Aster 4 High Powered Brass Burner Gas Stove, Cooktop with Glass Top and Stainless Steel body, Manual Ignition (Black)",
+     "price": 49.99,
+     "image": "https://images-eu.ssl-images-amazon.com/images/I/41uv7NpZksL._SX300_SY300_QL70_FMwebp_.jpg",
+     "ratings": 3
+ },
+ {
+    "id": 11,
+    "title": "Philips HR3705/10 300-Watt Hand Mixer, Black", 
+    "desc": "Philips HR3705/10 300-Watt Hand Mixer, Black",
+     "price": 60.88,
+     "image": "https://images-eu.ssl-images-amazon.com/images/I/41tDUmnDITL._SY300_SX300_QL70_FMwebp_.jpg",
+     "ratings": 3.4
+ },
+ {
+    "id": 12,
+    "title": "AGARO Majestic Toaster Griller, Motorised Rotisserie Cake Baking OTG with 5 Heating Mode (Black, 25 Litres)", 
+    "desc": "AGARO Majestic Toaster Griller, Motorised Rotisserie Cake Baking OTG with 5 Heating Mode (Black, 25 Litres)",
+     "price": 100.00,
+     "image": "https://images-eu.ssl-images-amazon.com/images/I/415dLxlvuVL._SX300_SY300_QL70_FMwebp_.jpg",
+     "ratings": 4.5
+ }
+
+
+]

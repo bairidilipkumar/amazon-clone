@@ -1,0 +1,18 @@
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wearables/Jupiter_21/Phase4/1500x300_desk_store_header_Electronics_unrec1.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21/Bank/Phase-4/update/Bank_PC__1500x90_3.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21P1/pay_stripe_desk.png" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img20/Events/Jupiter21/T2/Bank-Stripe/FST/FST_1500x100_English.jpg" class="t1">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Wearables/Jupiter_21/Phase4/D28069901_IN_CEPC_Electronics_teaser-graphics_Jupiter-P1_Aug21_1500.jpg" class="t2">
+
+<div class="products">
+    <div class="product" *ngFor="let item of items">
+        <mat-card>
+            <p>{{item.title}}</p>
+            <p>$ <strong>{{item.price}}</strong></p>
+            <img src={{item.image}}>
+            <button (click)="addToCart(item)">Add to cart</button>
+        </mat-card>
+    </div>
+</div>
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/CEPC/Jupiter/Electronics/P4/1500x300-live_P4.jpg" class="t2">
+<img src="https://images-eu.ssl-images-amazon.com/images/G/31/img21/Accessories/Phase-3/Accessories-Day/P4/1500X300_Router1.jpg" class="t2">

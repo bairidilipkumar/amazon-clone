@@ -1,5 +1,6 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -18,6 +19,13 @@ import { HttpClientModule } from '@angular/common/http';
 import { ProductsComponent } from './COMPONENTS/products/products.component';
 import { CheckoutProductsComponent } from './COMPONENTS/checkout-products/checkout-products.component';
 import { CheckoutSubtotalComponent } from './COMPONENTS/checkout-subtotal/checkout-subtotal.component';
+import { SignupComponent } from './signup/signup.component';
+import { MobilesComponent } from './mobiles/mobiles.component';
+import { ElectronicsComponent } from './electronics/electronics.component';
+import { FashionComponent } from './fashion/fashion.component';
+import { ComputersComponent } from './computers/computers.component';
+import { TodaydealComponent } from './todaydeal/todaydeal.component';
+import { HomekComponent } from './homek/homek.component';
 
 
 
@@ -32,7 +40,14 @@ import { CheckoutSubtotalComponent } from './COMPONENTS/checkout-subtotal/checko
     BannerComponent,
     ProductsComponent,
     CheckoutProductsComponent,
-    CheckoutSubtotalComponent
+    CheckoutSubtotalComponent,
+    SignupComponent,
+    MobilesComponent,
+    ElectronicsComponent,
+    FashionComponent,
+    ComputersComponent,
+    TodaydealComponent,
+    HomekComponent
   ],
   imports: [
     BrowserModule,
@@ -40,7 +55,9 @@ import { CheckoutSubtotalComponent } from './COMPONENTS/checkout-subtotal/checko
     MatIconModule,
     BrowserAnimationsModule,
     MatCardModule,
-    HttpClientModule
+    HttpClientModule,
+    FormsModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -26,9 +26,8 @@
 
 }
 .t1{
-    margin-left: 200px;
-    height: 500px;
+    width: 100%;
 }
-
-
-
+.t2{
+    margin-left: 200px;
+}
