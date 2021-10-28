@@ -36,6 +36,7 @@
     <div class="checkout_products_subtotal">
         <p>Subtotal ({{shopping_cart_service.getCartLength()}} items):
              <strong>${{shopping_cart_service.getTotal()}}</strong> </p>
+             <button (click)="onSubmit()">check out</button>
 
     </div>
 </div>

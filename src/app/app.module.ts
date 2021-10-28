@@ -26,6 +26,9 @@ import { FashionComponent } from './fashion/fashion.component';
 import { ComputersComponent } from './computers/computers.component';
 import { TodaydealComponent } from './todaydeal/todaydeal.component';
 import { HomekComponent } from './homek/homek.component';
+import { BestsComponent } from './bests/bests.component';
+import { LastComponent } from './last/last.component';
+import { LastsComponent } from './lasts/lasts.component';
 
 
 
@@ -47,7 +50,10 @@ import { HomekComponent } from './homek/homek.component';
     FashionComponent,
     ComputersComponent,
     TodaydealComponent,
-    HomekComponent
+    HomekComponent,
+    BestsComponent,
+    LastComponent,
+    LastsComponent
   ],
   imports: [
     BrowserModule,

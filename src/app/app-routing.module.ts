@@ -10,6 +10,9 @@ import { FashionComponent } from './fashion/fashion.component';
 import { ComputersComponent } from './computers/computers.component';
 import { TodaydealComponent } from './todaydeal/todaydeal.component';
 import { HomekComponent } from './homek/homek.component';
+import { BestsComponent } from './bests/bests.component';
+import { LastComponent } from './last/last.component';
+import { LastsComponent } from './lasts/lasts.component';
 
 
 const routes: Routes = [
@@ -22,7 +25,10 @@ const routes: Routes = [
   {path:'fashion',component:FashionComponent},
   {path:'computers',component:ComputersComponent},
   {path:'todaydeal',component:TodaydealComponent},
-  {path:'homek',component:HomekComponent}
+  {path:'homek',component:HomekComponent},
+  {path:'bests',component:BestsComponent},
+  {path:'last',component:LastComponent},
+  {path:'lasts',component:LastsComponent}
 ];
 
 @NgModule({

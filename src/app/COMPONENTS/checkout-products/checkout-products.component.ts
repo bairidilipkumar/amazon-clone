@@ -14,11 +14,15 @@ export class CheckoutProductsComponent implements OnInit {
 
   ngOnInit(): void {
     console.log('products ', this.checkout_products)
+    console.log("jkasbhd")
   }
 
   removeItem(p){
     this.shopping_cart_service.removerItem(p)
     this.deleteEvent.emit(p)
+  }
+  onSubmit(){
+    console.log("jkasbhd")
   }
 
 }
