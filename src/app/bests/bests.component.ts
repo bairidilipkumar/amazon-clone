@@ -21,6 +21,7 @@ export class BestsComponent implements OnInit {
     })
   }
   addToCart(p){
+    alert("your product is added to cart")
     this.shopping_cart.addProduct(p)
   }
 

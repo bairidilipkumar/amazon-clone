@@ -23,6 +23,7 @@ export class CheckoutProductsComponent implements OnInit {
   onSubmit(){
     console.log("jkasbhd")
     console.log('products ', this.checkout_products)
+    alert("your order has been placed conform checkout")
     this.http.post('https://61795117aa7f34001740499e.mockapi.io/api/v1/orders', this.checkout_products).subscribe((result)=>{
       console.warn("result",result)
     })
